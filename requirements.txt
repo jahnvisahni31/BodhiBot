@@ -1,0 +1,8 @@
+langchain
+langchain-google-genai
+langchain-anthropic
+langchain-community
+chainlit
+chromadb
+pypdf==3.8.1
+tiktoken==0.3.3
